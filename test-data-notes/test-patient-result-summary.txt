@@ -1,0 +1,555 @@
+
+Observations for sample child (mrn: 6946)
+
+1 - ADLs
+1 - Ability to Read/Write
+1 - Accompanied by
+1 - Advance Directive
+1 - Ambulation Assistance
+1 - Apgar Score 1 Minute:
+2 - Apgar Score 10 Minute:
+1 - Apgar Score 5 Minute:
+1 - Apical Heart Rate
+1 - Appropriate Activity for Situation
+1 - BH Patient Location
+3 - BSA Measured
+1 - Bed Mobility Assistance
+1 - Blood Pressure Location
+1 - Blood Pressure Method
+2 - Blood pressure
+5 - Body Mass Index Measured
+7 - Body Mass Index Percentile
+7 - Body Mass Index Z-Score
+1 - Call Light & Personal Items Within Reach
+232 - D-Postmenstrual Age
+1 - Dosing Weight Difference
+1 - Elimination Needs Addressed
+1 - Environmental Safety Implemented
+2 - Heart Rate Monitored
+5 - Height Percentile
+5 - Height Z-Score
+4 - Height/Length Measured
+3 - Ideal Body Weight Calculated
+1 - Level of Consciousness
+1 - Location of Birth
+1 - Mean Arterial Pressure, Cuff
+3 - Numeric Rating Pain Score
+1 - Oxygen Flow Rate
+1 - Oxygen Saturation
+1 - Oxygen Therapy
+1 - Pain Present
+1 - Patient Refused
+1 - Patient's Transfer Condition
+1 - Peripheral Pulse Rate
+1 - Preferred Communication Mode
+1 - Preferred Spoken Language
+1 - Preferred Written Language
+1 - Provider Notification Reason
+1 - Psychosocial and Safety Needs Addressed
+1 - Report Given at Bedside
+2 - Respiratory Rate
+1 - Scale Type
+1 - SpO2
+1 - SpO2 Location
+1 - SpO2 Site Change
+1 - Suction Catheter Pressure
+1 - Temperature Axillary
+1 - Temperature Core
+2 - Temperature Oral
+1 - Temperature Rectal
+1 - Temperature Skin
+1 - Temperature Tympanic
+1 - Transfer Notification
+1 - Type of Transfer
+1 - Unable to Reach Provider
+3 - Weight Dosing
+4 - Weight Measured
+5 - Weight Percentile
+5 - Weight Z-Score
+
+Mother Observations (id 12724066):
+
+1 - 
+1 - Affect Quality
+1 - Alcohol
+1 - Ambulation Device Utilized Rehab
+1 - Ambulation Distance
+1 - Ambulation Level Surfaces Goal
+1 - Apical Heart Rate
+1 - BSA Measured
+1 - Baby A Membrane Status:
+1 - Bathing
+1 - Bathing Goal
+1 - Bed, Chair, Wheelchair Goal
+1 - Bed,Chair,Wheelchair Indep Measure
+1 - Behavior
+1 - Bladder Level of Assistance
+1 - Bladder Level of Assistance Goal
+2 - Blood Pressure Location
+8 - Blood pressure
+1 - Body Mass Index Measured
+1 - Bowel Level of Assistance
+1 - Bowel Level of Assistance Goal
+1 - COVID-19 Ab IgG
+1 - COVID-19 Ab IgM
+1 - Cervix
+1 - Cervix Dilation
+1 - Chol/HDL
+1 - Cholesterol Total
+1 - Comfort Measures
+1 - Comfort Measures Response
+1 - Comprehension Goal Indep Measure
+1 - Comprehension Indep Measure
+1 - Comprehension Indep Measure Interim
+1 - Comprehension Mode Goal
+1 - Coronavirus COVID-19
+1 - Count Backward 20 to 1
+2 - D-BOOST Principal Dx Heart Failure
+1 - D-Infection Control Worklist Notify
+1 - D-Readmission Risk
+1 - Eating
+1 - Expression Goal Indep Measure
+1 - Expression Indep Measure
+1 - Expression Indep Measure Interim
+1 - Expression Mode Goal
+1 - FACES Pain Scale Rating
+1 - Fetal Station
+2 - Gravida
+1 - Grooming Indep Measure
+1 - HDL
+9 - Height/Length Measured
+13 - Hgb
+1 - Home Barriers
+2 - Home Equipment
+1 - Home Equipment, Anticipated
+1 - Home/Environment
+1 - IRF-PAI Discharge Mode of Locomotion
+1 - Ideal Body Weight Calculated
+1 - InM Bathing Assist With Tasks
+1 - InM Bathing Indep or Modifications
+1 - InM Bed, Chair, WC Assist With Tasks
+1 - InM Bed, Chair, WC Indep or Modification
+1 - InM Bladder Mgmt Assist With Tasks
+1 - InM Bladder Mgmt Indep or Modifications
+1 - InM Bowel Mgmt Assist With Tasks
+1 - InM Bowel Mgmt Indep or Modifications
+1 - InM Comprehension Complex, Abstract Idea
+1 - InM Comprehension Complex, Abstract Info
+1 - InM Comprehension Mode
+1 - InM Eating Assist With Tasks, Tube Feed
+1 - InM Eating Indep or Modifications
+1 - InM Expression Complex or Abstract Ideas
+1 - InM Expression Complex, Abstract Info
+1 - InM Expression Mode
+1 - InM Grooming Assist With Tasks
+1 - InM Grooming Indep or Modifications
+1 - InM LE Dsg Assist With Tasks
+1 - InM LE Dsg Indep or Modifications
+1 - InM Memory Recognition Without Prompting
+1 - InM Memory Remembers, Executes No Prompt
+1 - InM Problem Solving Able Solve Complex
+1 - InM Problem Solving Complex
+1 - InM Shower Assist With Tasks
+1 - InM Shower Indep or Modifications
+1 - InM Social Interaction Appropriate
+1 - InM Social Interaction No Supervision
+1 - InM Stairs Assistance
+1 - InM Stairs DNO Reason
+1 - InM Toileting Assist With Tasks
+1 - InM Toileting Indep or Modifications
+1 - InM Transfer Toilet Assist With Tasks
+1 - InM Transfer Toilet Indep, Modifications
+1 - InM Tub Assist With Tasks
+1 - InM Tub Indep or Modifications
+1 - InM UE Dsg Assist With Tasks
+1 - InM UE Dsg Indep or Modifications
+1 - InM Walk Assistance Necessary
+1 - InM Walk Patient Ambulated
+3 - Infection
+1 - LDL
+1 - Labor Onset, Date/Time
+1 - Lives In
+1 - Lives With
+1 - Living Situation
+1 - Locomotion Stair Indep Measure
+1 - Locomotion Walk Indep Measure
+1 - Lower Extremity Dressing Indep Measure
+2 - Mean Arterial Pressure, Cuff
+1 - Memory Goal Indep Measure
+1 - Memory Indep Measure
+1 - Memory Indep Measure Interim
+1 - Mode of Locomotion Goal
+1 - Numeric Pain Acceptable Intensity Scale
+1 - Numeric Pain Acceptable Intensity Score
+2 - Numeric Rating Pain Scale
+3 - Numeric Rating Pain Score
+1 - OMC Test Score Indication
+1 - Orientation Memory Concentration Score
+1 - Pain Present
+1 - Patient's Responsibilities
+5 - Peripheral Pulse Rate
+2 - Potassium Level
+1 - Preferred Pain Tool
+1 - Primary Pain Location
+1 - Problem Solving Goal Indep Measure
+1 - Problem Solving Indep Measure
+1 - Problem Solving Indep Measure Interim
+1 - Prof Skilled Services, Anticipated
+1 - Question Ability to Self Report Pain
+1 - Repeat Memory Phrase
+7 - Respiratory Rate
+1 - Response to Current Month
+1 - Response to Current Time
+1 - Response to Current Year
+1 - Risk Factors, Antepartum Current Preg
+1 - SHX Alcohol type
+1 - SHX Alcohol use
+1 - SHX Are your partners?
+1 - SHX Environment risks
+1 - SHX Home equipment
+1 - SHX IV drug use
+1 - SHX Religious restrictions
+1 - SHX Sexually active
+1 - SHX Sexually active at age
+1 - SHX Smoker in household
+1 - SHX Special Services and Community Resources
+1 - SHX Substance abuse frequency
+1 - SHX Substance abuse household concern
+1 - SHX Substance abuse interfered with work
+1 - SHX Substance abuse previous treatment
+1 - SHX Substance abuse readiness to change
+1 - SHX Substance abuse started at age
+1 - SHX Substance abuse type
+1 - SHX Substance abuse use
+1 - SHX Tobacco number of years
+1 - SHX Tobacco use
+1 - Sexual
+1 - Shower Transfer Indep Measure
+1 - Social Interaction Goal Indep Measure
+1 - Social Interaction Indep Measure
+1 - Social Interaction Indep Measure Interim
+2 - SpO2
+1 - SpO2 Location
+1 - SpO2 Site Change
+1 - State Months in Reverse Order
+1 - Substance Abuse
+1 - Swallowing Status Admit IRF-PAI
+1 - TOLAC, No History of Uterine Rupture
+1 - TOLAC, No Hx Transfundal Uterine Surg
+1 - TOLAC, Patient Provided with Info
+1 - TOLAC, Pt Counseled Risks, Alternatives
+1 - TOLAC, Vaginal Del Not Contraindicated
+1 - Temperature Axillary
+4 - Temperature Oral
+1 - Tobacco
+1 - Toileting Indep Measure
+1 - Transfer Toilet Rehab
+1 - Triglycerides
+1 - Tub Transfer Indep Measure
+1 - Upper Extremity Dressing Indep Measure
+1 - Uterine Contraction Duration
+1 - Uterine Contraction Monitoring Method
+1 - Uterus
+1 - Vagina
+1 - Vulva
+9 - Weight Dosing
+17 - Weight Measured
+15 - Weight Percentile
+15 - Weight Z-Score
+1 - Wheelchair Mobility Level Surfaces Goal
+
+Mother Procedures (id 12724066):
+
+1 - 
+43 - Adenoid excision (text)
+1 - Advance Care Planning; first 30 minutes
+1 - Apheresis
+9 - Appendectomy;
+1 - Application of hip spica cast; 1 and one-half spica or both legs
+2 - Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts
+8 - Insertion of infusion pump beneath skin
+2 - shdhfjadfhadj;
+
+Child Procedures (id 12742397): 
+
+1 - 
+VM930:11 5 - Adenoid excision (text)
+VM930:18 1 - Cochlear device implantation, with or without mastoidectomy
+
+Child Conditions (id 12742397):
+
+1 - 
+1 - Abdominal pain, acute
+1 - Abrasion of chest wall
+2 - Abrasion of lower extremity, unspecified laterality, sequela
+2 - Abrasion of neck with infection, initial encounter
+2 - Abrasion of nose with infection, initial encounter
+1 - Abscess of liver
+2 - Acne agminata
+1 - Acne atrophica
+1 - Acne keloid
+1 - Acute and subacute hepatic failure without coma
+2 - Alcoholic cirrhosis of liver with ascites
+2 - Anxiety attack
+2 - Asthma
+2 - At risk of pressure injury of skin
+1 - At risk of pressure sore
+1 - Avulsion of chest, sequela
+7 - Avulsion of chest, subsequent encounter
+2 - Avulsion of right hand excluding fingers, initial encounter
+2 - Brainstem neoplasm
+1 - Breast cancer
+1 - Cardiac condition
+2 - Chest injury, subsequent encounter
+4 - Cholera
+1 - Chronic meningococcemia
+3 - Cough
+1 - Crohn's disease of large intestine with complication
+2 - Crohn's disease of small and large intestines with complication
+2 - Crohn's disease of small intestine with complication
+1 - Crohn's disease with complication, unspecified gastrointestinal tract location
+4 - Crohn's disease, unspecified, with unspecified complications
+1 - Diabetes mellitus due to underlying condition with stage 3 chronic kidney disease, with long-term current use of insulin, unspecified whether stage 3a or 3b CKD
+1 - Eyes swollen
+2 - Facial laceration, subsequent encounter
+2 - Fever greater than 38 Celsius
+1 - Group A Streptococcus
+1 - Hand amputee, unspecified laterality
+1 - Headache
+2 - Heart & renal disease, hypertensive benign, heart fail/chr renal dis
+1 - Heart and lungs transplant status
+2 - Heart disease
+1 - Heart/lung transplant status
+1 - Hemicrania continua
+2 - Hypertensive heart and renal disease with renal failure, stage 1 through stage 4 or unspecified chronic kidney disease, without heart failure
+2 - Injury of anterior neck, initial encounter
+1 - Intractable episodic cluster headache
+2 - Laceration of both lungs, initial encounter
+2 - Liver abscess, transplanted liver
+1 - Liver arteriovenous fistula
+1 - Local infection of the skin and subcutaneous tissue, unspecified
+1 - Long term (current) use of insulin
+2 - Mouth bleeding
+2 - Neck aneurysm
+1 - Sepsis due to group A Streptococcus with acute liver failure without hepatic coma, unspecified whether septic shock present
+1 - Severe persistent asthma with status asthmaticus
+3 - Severe sepsis without septic shock
+3 - Skin abnormalities
+2 - Teeth gnashing
+2 - Throat clearing
+8 - Throat congestion
+2 - Trichobezoar, sequela
+2 - Type 2 diabetes mellitus with other diabetic kidney complication
+
+Mother Conditions (id 12724066):
+
+1 - 
+1 - 11 weeks gestation of pregnancy
+1 - 12 weeks gestation of pregnancy
+1 - 13 weeks gestation of pregnancy
+1 - 14 weeks gestation of pregnancy
+1 - 15 weeks gestation of pregnancy
+1 - 16 weeks gestation of pregnancy
+1 - 17 weeks gestation of pregnancy
+1 - 19 weeks gestation of pregnancy
+1 - 20 weeks gestation of pregnancy
+1 - 22 weeks gestation of pregnancy
+2 - 23 weeks gestation of pregnancy
+1 - 24 weeks gestation of pregnancy
+1 - 26 weeks gestation of pregnancy
+1 - 27 weeks gestation of pregnancy
+1 - 29 weeks gestation of pregnancy
+1 - 30 weeks gestation of pregnancy
+1 - 31 weeks gestation of pregnancy
+1 - 33 weeks gestation of pregnancy
+1 - 34 weeks gestation of pregnancy
+1 - 35 weeks gestation of pregnancy
+1 - 37 weeks gestation of pregnancy
+1 - 38 weeks gestation of pregnancy
+1 - 40 weeks gestation of pregnancy
+1 - 8 weeks gestation of pregnancy
+1 - 9 weeks gestation of pregnancy
+1 - Abnormal intentional weight loss
+2 - Abnormal weight loss
+10 - Acquired absence of right leg below knee
+48 - Adult Still Disease
+1 - Adult-onset Still's disease
+1 - Advance care planning (procedure)
+2 - Adverse effect of other nonsteroidal anti-inflammatory drugs [NSAID], initial encounter
+1 - Afraid my community will not be as close with COVID19.
+1 - Allergy status to narcotic agent status
+2 - Alzheimer's dementia
+1 - Anemia
+1 - Anemia associated with chronic renal failure
+1 - Anemia due to membrane defect
+10 - Anemia in chronic kidney disease
+1 - Anemia in chronic kidney disease, on chronic dialysis
+1 - Anemia in chronic kidney disease, unspecified CKD stage
+7 - Anemia in other chronic diseases classified elsewhere
+2 - Anemia in stage 3b chronic kidney disease
+1 - Anemia in stage 4 chronic kidney disease
+3 - Anemia, unspecified
+1 - Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+1 - Atypical chest pain
+2 - Brain Neoplasms
+1 - Brain abscess, tuberculous, with histological diagnosis
+1 - Brain neoplasms
+2 - Breakage of prosthesis of shoulder joint
+3 - Broken arm
+19 - Brucellosis
+1 - CHF (congestive heart failure)
+8 - Car sickness
+4 - Cardiovascular disease
+1 - Charcot's joint of right ankle or foot
+8 - Charcot's joint, right ankle and foot
+9 - Chronic kidney disease, stage 4 (severe)
+5 - Chronic myeloproliferative disease
+1 - Chronic pulmonary embolism
+1 - Closed displaced comminuted fracture of shaft of right fibula with routine healing
+5 - Closed fracture of forearm, unspecified laterality, initial encounter
+1 - Common Cold / Nasopharyngitis
+1 - Comorbidities found via Retrieve Dx
+1 - Concussion NOS
+1 - Concussion NOS (disorder)
+78 - Concussion with loss of consciousness
+1 - Concussion with loss of consciousness Test333
+1 - Concussion with loss of consciousness for testing
+1 - Concussion with loss of consciousness, sequela
+1 - Concussion with loss of consciousness, subsequent encounter
+1 - Controlled type 1 diabetes mellitus with diabetic nephropathy, without long-term current use of insulin
+1 - Controlled type 2 diabetes mellitus with complication, with long-term current use of insulin
+4 - Coronavirus infection
+1 - Crohn Disease
+2 - Crohn's disease of large intestine with complication
+1 - Crohn's disease of small intestine with complication
+2 - Crohn's disease, unspecified, with unspecified complications
+1 - Crohn's/Ulcerative Colitis
+1 - Current mild episode of major depressive disorder without prior episode
+2 - D1 trisomy syndrome
+8 - Dependence on renal dialysis
+6 - Diabetes
+1 - Diabetes 1.5, managed as type 1
+155 - Diabetes insipidus
+6 - Diabetes mellitus
+35 - Diabetes mellitus and insipidus with optic atrophy and deafness
+2 - Diabetes mellitus due to non-steroid drug
+1 - Diabetes mellitus due to underlying condition with both eyes affected by proliferative retinopathy and combined traction and rhegmatogenous retinal detachments, unspecified whether long term insulin use
+1 - Diabetes mellitus type 2
+1 - Diabetes mellitus type 2, controlled, with complications
+1 - Diabetes mellitus, with long-term current use of insulin
+1 - Difficulty walking
+5 - Displaced comminuted fracture of shaft of right fibula, subsequent encounter for closed fracture with routine healing
+1 - Dyslipidemia
+6 - Encounter for other specified surgical aftercare
+4 - End stage renal disease
+73 - Endocarditis
+1 - Exposure to coronavirus infection
+1 - Febrile nonhemolytic transfusion reaction
+1 - Fever
+1 - Fever and neutropenia
+1 - Fever as manifestation of blood transfusion reaction
+1 - Fever as manifestation of blood transfusion reaction, sequela
+1 - Fracture arms with rib/sternum-closed
+7 - Freetext Condition
+2 - Freetext Diagnosis
+10 - G cell tumor, malignant
+9 - G tube feedings
+7 - Gastro-esophageal reflux disease without esophagitis
+1 - Gestational diabetes mellitus, class A>1<
+1 - Gestational hypertension
+1 - Gestational hypertension, antepartum
+1 - Gestational hypertension, first trimester
+1 - Gestational hypertension, second trimester
+1 - Gestational hypertension, third trimester
+1 - Glaucoma (increased eye pressure)
+3 - Glaucoma suspect
+1 - Granulosa cell tumor, malignant
+43 - Group A Streptococcus
+1 - Heart failure, right due to left-sided failure, chronic
+11 - Hodgkin Disease
+1 - Hyperlipidemia
+5 - Hypothyroidism, unspecified
+1 - Immunization due
+6 - Infectious Mononucleosis
+1 - Injury of abdomen or pelvis multiple blood vessels
+1 - Injury of multiple blood vessels of abdomen AND/OR pelvis
+4 - Iron deficiency anemia secondary to inadequate dietary iron intake
+9 - Iron deficiency anemia, unspecified
+1 - Latent autoimmune diabetes mellitus in adult
+1 - Leptospirosis
+1 - Less than 8 weeks gestation of pregnancy
+3 - Localized edema
+3 - Long term (current) use of insulin
+7 - Major depressive disorder, recurrent severe without psychotic features
+3 - Major depressive disorder, single episode, unspecified
+1 - Malignant hypertensive heart and kidney disease, stage 1 through stage 4 or unspecified chronic kidney disease, without heart failure
+1 - Malignant neoplasm of brain stem
+1 - Malignant neoplasm of overlapping sites of other parts of mouth
+1 - Malignant neoplasm of upper lobe of right lung
+1 - Merkel cell carcinoma of face
+1 - Merkel cell carcinoma of unspecified part of face
+1 - More than 42 weeks gestation of pregnancy
+2 - Motion sickness
+1 - Multiple fractures of ribs, unspecified side, initial encounter for closed fracture
+1 - Multiple open wounds of abdomen, lower back and pelvis
+1 - Myocardial infarction involving left anterior descending (LAD) coronary artery, unspecified MI type
+1 - NONE OF THE ABOVE
+1 - Non-ST elevation myocardial infarction (NSTEMI)
+1 - Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity
+2 - Osteomyelitis
+6 - Osteomyelitis, unspecified
+1 - Other closed fracture of proximal end of left radius, initial encounter
+1 - Other complications following infusion, transfusion and therapeutic injection, sequela
+6 - Other specified counseling
+9 - Other specified postprocedural states
+1 - Other zygomycoses
+5 - Pain in right ankle and joints of right foot
+4 - Paroxysmal atrial fibrillation
+4 - Pregnant
+1 - Presence of unspecified artificial shoulder joint
+7 - Pulmonary heart disease, unspecified
+2 - Pulmonary hypertension due to left heart disease
+1 - Pulmonary toxoplasmosis
+4 - R.I.N.D. syndrome
+16 - Relapsing Fever
+4 - Right ACL tear
+1 - Right adrenal mass
+1 - Right heart failure due to left heart failure
+2 - Rubella arthritis
+1 - Rupture of anterior cruciate ligament
+2 - Rupture of anterior cruciate ligament of right knee, initial encounter
+54 - Sepsis and Shock
+2 - Sepsis due to Pseudomonas
+1 - Stomach pain
+1 - Subacute osteomyelitis, unspecified site
+1 - Suspected glaucoma of left eye
+2 - Taenia solium infection, intestinal form
+1 - Thrombotic Thrombocytopenic Purpura
+2 - Thrombotic thrombocytopenic purpura
+1 - Type 1 diabetes mellitus with diabetic polyneuropathy
+1 - Type 1 diabetes mellitus with foot ulcer
+6 - Type 1 diabetes mellitus with hypoglycemia and without coma
+5 - Type 1 diabetes mellitus with hypoglycemia without coma
+1 - Type 1 diabetes mellitus with unspecified complications
+1 - Type 1 diabetes mellitus without complication
+2 - Type 2 diabetes mellitus with both eyes affected by proliferative retinopathy without macular edema, with long-term current use of insulin
+2 - Type 2 diabetes mellitus with diabetic cataract, without long-term current use of insulin
+8 - Type 2 diabetes mellitus with diabetic nephropathy
+17 - Type 2 diabetes mellitus with other diabetic kidney complication
+33 - Type 2 diabetes mellitus with other specified complication
+6 - Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral
+3 - Type 2 myocardial infarction
+1 - U shaped retinal tear
+3 - U shaped retinal tear, unspecified laterality
+1 - U-shaped retinal tear of left eye
+16 - Unspecified fracture of lower end of right tibia, subsequent encounter for closed fracture with routine healing
+1 - Unspecified fracture of shaft of humerus, left arm, initial encounter for closed fracture
+1 - Unspecified fracture of shaft of humerus, right arm, initial encounter for closed fracture
+3 - Unspecified fracture of sternum, initial encounter for closed fracture
+32 - Unspecified hearing loss, unspecified ear
+33 - Unspecified optic atrophy
+1 - Unstable angina
+1 - Vitreous hemorrhage of right eye
+27 - Vitreous hemorrhage, right eye
+1 - Warty dyskeratoma
+1 - White classification A1 gestational diabetes mellitus (GDM)
