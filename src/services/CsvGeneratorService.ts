@@ -8,11 +8,11 @@ interface ColumnDefinition {
 export const CSV_HEADERS: ColumnDefinition[] = [
   {
     label: "Child First Name",
-    getValue: (birthRecord: BirthRecord) => birthRecord.getChildLastName(),
+    getValue: (birthRecord: BirthRecord) => birthRecord.getChildFirstName(),
   },
   {
     label: "Child Last Name",
-    getValue: (birthRecord: BirthRecord) => birthRecord.getChildFirstName(),
+    getValue: (birthRecord: BirthRecord) => birthRecord.getChildLastName(),
   },
   {
     label: "Child Sex",
@@ -33,11 +33,11 @@ export const CSV_HEADERS: ColumnDefinition[] = [
   },
   {
     label: "Mother First Name",
-    getValue: (birthRecord: BirthRecord) => birthRecord.getMotherLastName(),
+    getValue: (birthRecord: BirthRecord) => birthRecord.getMotherFirstName(),
   },
   {
     label: "Mother Last Name",
-    getValue: (birthRecord: BirthRecord) => birthRecord.getMotherFirstName(),
+    getValue: (birthRecord: BirthRecord) => birthRecord.getMotherLastName(),
   },
   {
     label: "Mother MRN(s)",
