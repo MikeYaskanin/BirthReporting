@@ -3,7 +3,7 @@ import { AuthService } from "../services/AuthService";
 
 export const FhirHttp: AxiosInstance = axios.create({
   baseURL:
-    "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d",
+    "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4",
 });
 
 FhirHttp.interceptors.request.use((config) => {

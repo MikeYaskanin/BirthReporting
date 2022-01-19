@@ -35,8 +35,9 @@ export class EhrService {
   public static getChildPatientDetails(
     mrnRecord: BirthRecord
   ): Promise<DataRequest<fhir4.Patient>> {
+	// cerner used system "urn:oid:2.16.840.1.113883.6.1000"
     return this.getPatientWithIdentifier(
-      "urn:oid:2.16.840.1.113883.6.1000",
+      "MRN",
       mrnRecord.childMrn,
       "Child Patient Resource"
     );
@@ -73,6 +74,7 @@ export class EhrService {
                       "https://fhir.cerner.com/ec2458f2-1e24-41c8-b71b-0e701af7583d/codeSet/40" &&
                       relationCoding.code === "156")
                 )
+                // TODO note Cerner specific coding system in search for mother
             )
         );
       return isMother;
@@ -569,7 +571,8 @@ export class EhrService {
       throw new Error("Patient required for " + description);
     }
     const resourcePath =
-      "/RelatedPerson?patient=" + patient.id + "&-relationship-level=Patient";
+      // Cerner "/RelatedPerson?patient=" + patient.id + "&-relationship-level=Patient";
+      "/Patient/" + patient.id + "/RelatedPerson";
 
     return FhirHttp.get<fhir4.Bundle>(resourcePath)
       .then((response) => {

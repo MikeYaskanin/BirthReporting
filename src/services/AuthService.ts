@@ -46,6 +46,18 @@ export class AuthService {
     throw Error("Stored authentication state not found");
   }
 
+  public static getFhirBaseUrl() : string {
+	return "https://fhir.epic.com/interconnect-fhir-oauth";
+  }
+  
+  public static getAuthorizeUrlNoQS() : string {
+	return "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/authorize";
+  }
+  
+  public static getTokenUrl() : string {
+	return "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/token";
+  }
+  
   public static getAccessTokens(code: string): Promise<AccessTokenResponse> {
     const requestParams: Record<string, string> = {
       code,
@@ -58,8 +70,9 @@ export class AuthService {
       .map((key) => `${key}=${encodeURIComponent(requestParams[key])}`)
       .join("&");
 
+	//  "https://authorization.cerner.com/tenants/ec2458f2-1e24-41c8-b71b-0e701af7583d/protocols/oauth2/profiles/smart-v1/token",
     return BaseHttp.post(
-      "https://authorization.cerner.com/tenants/ec2458f2-1e24-41c8-b71b-0e701af7583d/protocols/oauth2/profiles/smart-v1/token",
+      AuthService.getTokenUrl(),
       data,
       {
         headers: {
@@ -72,6 +85,7 @@ export class AuthService {
           response.data.access_token,
           response.data.refresh_token
         );
+        console.warn(response.data);
       }
       return response.data;
     });
@@ -81,12 +95,13 @@ export class AuthService {
     return "http://localhost:3000/auth-redirect";
   }
 
+
   private static getAuthClientId(): string {
-    const cernerClientId = "";
-    if(!cernerClientId) {
-      throw new Error("No Cerner client ID provided! Go to https://code.cerner.com/developer/smart-on-fhir/apps to register an app and get the client ID");
+    const ehrClientId = "";
+    if(!ehrClientId) {
+      throw new Error("No EHR client ID provided! Go to vendor developer smart-on-fhir website to register an app and get the client ID");
     }
-    return cernerClientId;
+    return ehrClientId;
   }
 
   public static getStoredToken(): string | null {
@@ -97,8 +112,10 @@ export class AuthService {
     return localStorage.getItem(REFRESH_TOKEN_STORAGE_KEY);
   }
 
-  public static beginAuthenticationIfNeeded(): void {
-    const authUrl =
+
+  
+  /*
+  const authUrl =
       "https://authorization.cerner.com/tenants/ec2458f2-1e24-41c8-b71b-0e701af7583d/protocols/oauth2/profiles/smart-v1/personas/provider/authorize" +
       `?client_id=${AuthService.getAuthClientId()}` +
       `&redirect_uri=${AuthService.getAuthRedirectUri()}` +
@@ -106,6 +123,16 @@ export class AuthService {
       "&response_type=code" +
       "&aud=https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d" +
       `&state=${AuthService.generateStateForAuth()}`;
+   */
+  public static beginAuthenticationIfNeeded(): void {
+    const authUrl =
+      `${AuthService.getAuthorizeUrlNoQS()}` +
+      `?client_id=${AuthService.getAuthClientId()}` +
+      `&redirect_uri=${AuthService.getAuthRedirectUri()}` +
+      "&scope=Condition.Search Coverage.Search Observation.Search Patient.Search Procedure.Search RelatedPerson.Read" +
+      "&response_type=code" +
+      `&state=${AuthService.generateStateForAuth()}` +
+      `&aud=${AuthService.getFhirBaseUrl()}`;
     window.location.href = authUrl;
   }
 
@@ -147,7 +174,7 @@ export class AuthService {
         .join("&");
 
       return BaseHttp.post(
-        "https://authorization.cerner.com/tenants/ec2458f2-1e24-41c8-b71b-0e701af7583d/protocols/oauth2/profiles/smart-v1/token",
+        AuthService.getTokenUrl(),
         data,
         {
           headers: {
